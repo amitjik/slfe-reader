@@ -1,0 +1,3 @@
+[submodule "resource-model"]
+	path = resource-model
+	url = https://github.com/amitjik/resource-model.git
